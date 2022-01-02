@@ -50,7 +50,8 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css">
     <title>HomeWork4</title>
-  </head>```
+  </head>
+  ```
 
 ## Education
 Master of Science: **Chemical technology** 2008-2013 **Ukrainian State Chemical Technology University**, Dnipro, Ukraine
