@@ -42,7 +42,8 @@
  - create many different  creatives for target. [My works](https://drive.google.com/drive/folders/1LbsBUbhAefxKzslhDoL75riyosVzxUHf?usp=sharing)
  
 **Code example**
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html lang="ru">
   <head>
     <meta charset="UTF-8" />
