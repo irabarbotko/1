@@ -84,8 +84,7 @@
       </nav>
     </header>
   </body>
-</html>
-```
+</html>```
 
 ## Education
 Master of Science: **Chemical technology** 2008-2013 **Ukrainian State Chemical Technology University**, Dnipro, Ukraine
