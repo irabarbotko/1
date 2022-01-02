@@ -50,41 +50,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <link rel="stylesheet" href="style.css">
     <title>HomeWork4</title>
-  </head>
-  <body>
-    <header>
-      <nav class="main-menu">
-        <ul>
-          <li><a href="#">Главная</a></li>
-          <li><a href="product.html">Продукция</a>
-              <ul>
-                <li><a href="#">Смартфоны</a></li>
-                <li><a href="#">Ноутбуки</a></li>
-                <li><a href="#">Акссесуары</a></li>
-                <li><a href="#">Зарядки</a></li>
-              </ul>
-          </li>
-          <li><a href="#">Услуги</a>
-            <ul>
-              <li><a href="#">Услуга 1</a></li>
-              <li><a href="#">Услуга 2</a></li>
-              <li><a href="#">Услуга 3</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Новости</a>
-            <ul>
-              <li><a href="#">Новость1</a></li>
-              <li><a href="#">Новость2</a></li>
-              <li><a href="#">Новость3</a></li>
-              <li><a href="#">Новость4</a></li>
-            </ul>
-          </li>
-          <li><a href="#">Контакты</a></li>
-        </ul>
-      </nav>
-    </header>
-  </body>
-</html>```
+  </head>```
 
 ## Education
 Master of Science: **Chemical technology** 2008-2013 **Ukrainian State Chemical Technology University**, Dnipro, Ukraine
