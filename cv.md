@@ -4,11 +4,17 @@
 > *Albert Einstein*
 
 ## Contacts
-**Email:** barbotkoirina@gmail.com
-**Phone:** +380950228246
-**GitHub:** irabarbotko
-**Telegram:** t.me/barbotko_design
-**Instagram:** @barbotko.design
+
+   **Email:** barbotkoirina@gmail.com
+   
+   **Phone:** +380950228246
+   
+   **GitHub:** irabarbotko
+   
+   **Telegram:** t.me/barbotko_design
+   
+   **Instagram:** @barbotko.design
+   
 
 ## Skills
 
@@ -83,9 +89,10 @@
 ## Education
 Master of Science: **Chemical technology** 2008-2013 **Ukrainian State Chemical Technology University**, Dnipro, Ukraine
 ## Certificates
-HTML/CSS: **IMT Academy** 2018, Dnipro, Ukraine
-Web UI/UX Design: **IMT Academy** 2019 Dnipro, Ukraine
-Web design: **3Second**, 2020, Minsk, Belarus
-Target: **RED SMM**, 2021, Moscow, Russia
+
+ - HTML/CSS: **IMT Academy** 2018, Dnipro, Ukraine
+ - Web UI/UX Design: **IMT Academy** 2019 Dnipro, Ukraine 
+ - Web design: **3Second**, 2020, Minsk, Belarus 
+ - Target: **RED SMM**, 2021, Moscow, Russia
 
 ## THANK YOU FOR YOUR ATTENTION
